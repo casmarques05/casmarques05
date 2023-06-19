@@ -1,4 +1,4 @@
-<h1>Tech-Stack :💻<h1/>
+<h1>Tech-Stack : <h1/>
   
 ![html](https://github.com/casmarques05/casmarques05/assets/130240942/c8fca3c8-b580-4fa2-af9c-f3a048fa743d)
 ![css](https://github.com/casmarques05/casmarques05/assets/130240942/23c0b4eb-fd05-45ed-905f-f14317ab761a)
